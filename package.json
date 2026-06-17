@@ -1,0 +1,9 @@
+{
+  "name": "port-kill-npm",
+  "version": "1.0.0",
+  "description": "Find and kill processes running on a given port",
+  "bin": {
+    "port-kill": "index.js"
+  },
+  "license": "MIT"
+}
